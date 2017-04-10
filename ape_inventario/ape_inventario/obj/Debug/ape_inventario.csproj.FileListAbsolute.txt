@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\bin\Debug\ape_inventario.exe.config
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\bin\Debug\ape_inventario.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\bin\Debug\ape_inventario.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.csprojResolveAssemblyReference.cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.Properties.Resources.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.csproj.GenerateResource.Cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.pdb
+C:\Users\ale_p_000\documents\visual studio 2015\Projects\ape_inventario\ape_inventario\obj\Debug\ape_inventario.frmPrincipal.resources
